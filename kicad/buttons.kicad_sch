@@ -5,8 +5,8 @@
 	(uuid "4021684e-3a23-4e27-b016-dfa8d6a85ad3")
 	(paper "A4")
 	(title_block
-		(date "2025-09-17")
-		(rev "v0.0.1")
+		(date "2025-09-25")
+		(rev "v0.0.2")
 		(company "Dag-Electronics")
 	)
 	(lib_symbols
