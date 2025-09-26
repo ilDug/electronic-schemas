@@ -7,7 +7,7 @@
 	(title_block
 		(title "Main")
 		(date "2025-09-25")
-		(rev "v0.0.2")
+		(rev "v0.0.3")
 		(company "Dag-Electronics")
 	)
 	(lib_symbols
@@ -158,6 +158,48 @@
 				(path "/f1ade40e-ee4b-4e00-b57d-44850604005b"
 					(reference "P1")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 119.38 21.59)
+		(size 25.4 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "292635d8-2cab-4fc1-b7ec-537c82f88846")
+		(property "Sheetname" "relay"
+			(at 119.38 20.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "relay.kicad_sch"
+			(at 119.38 45.0346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "electronics-schemas"
+				(path "/f1ade40e-ee4b-4e00-b57d-44850604005b"
+					(page "4")
 				)
 			)
 		)
