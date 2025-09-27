@@ -11,6 +11,7 @@
 *.gch
 *.pch
 
+
 # Linker files
 *.ilk
 
@@ -41,3 +42,4 @@
 *.dwo
 
 kicad/electronics-schemas-backups/
+.DS_Store

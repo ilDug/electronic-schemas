@@ -23,8 +23,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 0 0 0)
+		(property "Footprint" "dag-library:pad"
+			(at 0.508 -5.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
