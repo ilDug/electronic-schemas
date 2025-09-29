@@ -247,6 +247,48 @@
 		)
 	)
 	(sheet
+		(at 157.48 21.59)
+		(size 22.86 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "47d35459-a75a-4a21-96d8-7bbbdc8274c6")
+		(property "Sheetname" "LCD"
+			(at 157.48 20.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "lcd.kicad_sch"
+			(at 157.48 43.7646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "electronics-schemas"
+				(path "/f1ade40e-ee4b-4e00-b57d-44850604005b"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 76.2 21.59)
 		(size 26.67 21.59)
 		(exclude_from_sim no)
