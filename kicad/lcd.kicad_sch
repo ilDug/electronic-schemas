@@ -261,40 +261,50 @@
 		)
 	)
 	(bus_entry
-		(at 80.01 39.37)
-		(size 2.54 -2.54)
+		(at 82.55 31.75)
+		(size -2.54 2.54)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "26032ee0-06c5-4602-b4fa-e065bb767692")
+		(uuid "36a4db52-5e9c-4b57-903e-d8924addd8cc")
 	)
 	(bus_entry
-		(at 80.01 31.75)
-		(size 2.54 -2.54)
+		(at 82.55 36.83)
+		(size -2.54 2.54)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "60c98066-6e30-40e5-b446-0721c119c6fb")
+		(uuid "a6405767-766b-4ae8-8f84-9efdfcb447c1")
 	)
 	(bus_entry
-		(at 80.01 36.83)
-		(size 2.54 -2.54)
+		(at 82.55 29.21)
+		(size -2.54 2.54)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6a9aa026-17c6-42d9-bafb-fe97443dc40d")
+		(uuid "c5d10d42-e0c7-4151-80c0-bccf805c4f20")
 	)
 	(bus_entry
-		(at 80.01 34.29)
-		(size 2.54 -2.54)
+		(at 82.55 34.29)
+		(size -2.54 2.54)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b4501d99-a079-4f68-b4e0-0592de6e189c")
+		(uuid "e9ebeff4-0533-4f02-9fba-1504d2781e6f")
+	)
+	(bus
+		(pts
+			(xy 82.55 29.21) (xy 82.55 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02880021-1487-4c24-88b8-505da4af7507")
 	)
 	(bus
 		(pts
@@ -304,7 +314,27 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "0d107386-9711-4f9f-8246-899108ac5206")
+		(uuid "13879ea7-a440-4c2d-922a-8301290ed936")
+	)
+	(wire
+		(pts
+			(xy 54.61 39.37) (xy 80.01 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a78e0d3-8ca8-4167-9a0e-2cce2ed6243a")
+	)
+	(wire
+		(pts
+			(xy 54.61 36.83) (xy 80.01 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a7bfb92-a60e-4a0f-bfed-54a45e2fd146")
 	)
 	(bus
 		(pts
@@ -318,53 +348,13 @@
 	)
 	(bus
 		(pts
-			(xy 82.55 44.45) (xy 107.95 44.45)
+			(xy 82.55 44.45) (xy 93.98 44.45)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "25f4fa5c-495c-43d3-a77f-1f8cd4c81141")
-	)
-	(bus
-		(pts
-			(xy 82.55 29.21) (xy 82.55 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "640dae55-8025-48ec-aea6-d432e5b74bf2")
-	)
-	(wire
-		(pts
-			(xy 54.61 36.83) (xy 80.01 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "81a48928-3bd6-468d-9747-1d3bbead14f7")
-	)
-	(bus
-		(pts
-			(xy 82.55 34.29) (xy 82.55 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8bf7d967-4572-47e2-a2e7-30f5c4acfd96")
-	)
-	(wire
-		(pts
-			(xy 54.61 34.29) (xy 80.01 34.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ad17a3e9-09c9-4673-9db6-ee920a4edd7d")
 	)
 	(wire
 		(pts
@@ -374,17 +364,17 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "b61045dc-848d-4ba1-8f91-1f3fa7350d4b")
+		(uuid "465a462e-fbbd-4a6b-bd72-0d285b2cbc5a")
 	)
-	(wire
+	(bus
 		(pts
-			(xy 54.61 39.37) (xy 80.01 39.37)
+			(xy 82.55 34.29) (xy 82.55 36.83)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c88d8c3f-8829-46a8-b818-34c9865a98d4")
+		(uuid "a3caab6b-05e0-4b9e-9a8c-86168b159e51")
 	)
 	(bus
 		(pts
@@ -394,67 +384,67 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "d12c18b1-4e29-46ab-997a-f56424ff12ec")
+		(uuid "da9d97d4-0d4a-44e7-bc07-f92e0d8126d4")
 	)
-	(bus
+	(wire
 		(pts
-			(xy 107.95 27.94) (xy 107.95 44.45)
+			(xy 54.61 34.29) (xy 80.01 34.29)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f66f710c-5514-4d3d-926d-e312257b7ead")
+		(uuid "ea915304-3000-4500-83d0-dc72edbabb0f")
 	)
-	(label "SCL"
-		(at 64.77 39.37 0)
+	(label "LCD.Vcc"
+		(at 58.42 34.29 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "17754023-d81e-4522-bf52-213e9c715986")
+		(uuid "11df326f-e8ca-4731-acc6-c0350d2715f6")
 	)
-	(label "SDA"
-		(at 64.77 36.83 0)
+	(label "LCD.GND"
+		(at 58.42 31.75 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "57e352af-5935-4ea8-aa29-05a22d9bb398")
+		(uuid "a0f90f29-cc4f-432d-9ad4-3fc9a06a0aaa")
 	)
-	(label "GND"
-		(at 64.77 31.75 0)
+	(label "LCD.SCL"
+		(at 58.42 39.37 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "6cec66f5-6681-4400-84db-cc8a0135bb4a")
+		(uuid "a4c0c556-b140-492b-aa92-2fbf5f8bef9c")
 	)
-	(label "{SCL SDA Vcc GND}"
-		(at 85.09 44.45 0)
+	(label "{LCD}"
+		(at 86.36 44.45 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "ce7a74a7-6e31-4b91-9bbd-fbaef6deddbb")
+		(uuid "c891e819-95bf-4960-abf6-dca9fe1bda43")
 	)
-	(label "Vcc"
-		(at 64.77 34.29 0)
+	(label "LCD.SDA"
+		(at 58.42 36.83 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "e8f7250a-f59e-42b3-bef8-c1632bb7f15c")
+		(uuid "fdb74329-768b-43cb-9481-a7f749e124be")
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Socket")

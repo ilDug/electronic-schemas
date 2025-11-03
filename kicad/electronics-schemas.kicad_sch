@@ -95,6 +95,9 @@
 			(embedded_fonts no)
 		)
 	)
+	(bus_alias "LCD"
+		(members "LCD.GND" "LCD.Vcc" "LCD.SDA" "LCD.SCL")
+	)
 	(symbol
 		(lib_id "dag_library:pad")
 		(at 93.98 67.31 0)
@@ -289,8 +292,8 @@
 		)
 	)
 	(sheet
-		(at 196.85 21.59)
-		(size 27.94 22.86)
+		(at 190.5 21.59)
+		(size 26.67 21.59)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -303,9 +306,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "b34a94c5-d99f-4dbe-b6c1-f91f541123f4")
-		(property "Sheetname" "Untitled Sheet"
-			(at 196.85 20.8784 0)
+		(uuid "90670ac8-15ce-4756-b36a-2162bfc01c8a")
+		(property "Sheetname" "pwm-motor"
+			(at 190.5 20.8784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -313,8 +316,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "untitled.kicad_sch"
-			(at 196.85 45.0346 0)
+		(property "Sheetfile" "pwm-motor.kicad_sch"
+			(at 190.5 43.7646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
