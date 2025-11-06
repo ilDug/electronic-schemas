@@ -1241,7 +1241,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b77a522-cee2-4c9c-b0e0-e435bc9cce79")
-		(property "Reference" "R7"
+		(property "Reference" "R8"
 			(at 52.07 76.1999 0)
 			(effects
 				(font
@@ -1295,7 +1295,7 @@
 		(instances
 			(project ""
 				(path "/f1ade40e-ee4b-4e00-b57d-44850604005b/90670ac8-15ce-4756-b36a-2162bfc01c8a"
-					(reference "R7")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -1472,7 +1472,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8f48f5db-05ae-427b-acbc-f30aa5e63a4b")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR026"
 			(at 69.85 92.71 0)
 			(effects
 				(font
@@ -1522,7 +1522,7 @@
 		(instances
 			(project ""
 				(path "/f1ade40e-ee4b-4e00-b57d-44850604005b/90670ac8-15ce-4756-b36a-2162bfc01c8a"
-					(reference "#PWR024")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -1608,7 +1608,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c27cbda2-2163-4ddc-b8bd-b214010ee534")
-		(property "Reference" "R8"
+		(property "Reference" "R7"
 			(at 55.88 63.5 90)
 			(effects
 				(font
@@ -1660,7 +1660,7 @@
 		(instances
 			(project "electronics-schemas"
 				(path "/f1ade40e-ee4b-4e00-b57d-44850604005b/90670ac8-15ce-4756-b36a-2162bfc01c8a"
-					(reference "R8")
+					(reference "R7")
 					(unit 1)
 				)
 			)

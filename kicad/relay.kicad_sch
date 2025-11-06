@@ -1626,7 +1626,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4c46bf32-5897-45a6-b51c-8c123c694819")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR023"
 			(at 38.1 185.42 0)
 			(effects
 				(font
@@ -1676,7 +1676,7 @@
 		(instances
 			(project "electronics-schemas"
 				(path "/f1ade40e-ee4b-4e00-b57d-44850604005b/292635d8-2cab-4fc1-b7ec-537c82f88846"
-					(reference "#PWR022")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -1692,7 +1692,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4d5d736d-eda5-484c-9992-d661ee027cd7")
-		(property "Reference" "D5"
+		(property "Reference" "D4"
 			(at 77.47 60.0074 90)
 			(effects
 				(font
@@ -1755,7 +1755,7 @@
 		(instances
 			(project ""
 				(path "/f1ade40e-ee4b-4e00-b57d-44850604005b/292635d8-2cab-4fc1-b7ec-537c82f88846"
-					(reference "D5")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -1851,7 +1851,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "807cb87c-c219-4f3c-8825-c545d7c3335e")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR022"
 			(at 97.79 110.49 0)
 			(effects
 				(font
@@ -1901,7 +1901,7 @@
 		(instances
 			(project "electronics-schemas"
 				(path "/f1ade40e-ee4b-4e00-b57d-44850604005b/292635d8-2cab-4fc1-b7ec-537c82f88846"
-					(reference "#PWR023")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -2155,7 +2155,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f59508eb-0599-40de-a1b1-621cac3f0bfd")
-		(property "Reference" "D4"
+		(property "Reference" "D5"
 			(at 87.63 58.4199 90)
 			(effects
 				(font
@@ -2227,7 +2227,7 @@
 		(instances
 			(project ""
 				(path "/f1ade40e-ee4b-4e00-b57d-44850604005b/292635d8-2cab-4fc1-b7ec-537c82f88846"
-					(reference "D4")
+					(reference "D5")
 					(unit 1)
 				)
 			)
