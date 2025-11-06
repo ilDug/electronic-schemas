@@ -292,6 +292,48 @@
 		)
 	)
 	(sheet
+		(at 225.425 21.59)
+		(size 26.67 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4a0fe6a5-3f00-45ce-84bc-63da35bbbf1f")
+		(property "Sheetname" "ATMEGA328P"
+			(at 225.425 20.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ATMEGA328P.kicad_sch"
+			(at 225.425 43.7646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "electronics-schemas"
+				(path "/f1ade40e-ee4b-4e00-b57d-44850604005b"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 190.5 21.59)
 		(size 26.67 21.59)
 		(exclude_from_sim no)
